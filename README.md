@@ -21,3 +21,11 @@
 - 第二个标题为：优势展示 —— 务必有此环节，一定要用图片的形式，来充分展示公司吸引人的地方。纯文字形式的是不能接收的。
 
 然后更新 README.md 文件，将新的优秀公司名称添加到**现收录优秀公司列表**中。
+
+# Source
+
+All contents come from network
+
+# LICENCE
+
+FEEL FREE
